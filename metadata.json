@@ -1,0 +1,6 @@
+{
+  "name": "FMCG Pulse Analytics Dashboard",
+  "description": "Executive FMCG Power BI-style analytics dashboard with interactive slicers, KPI metric cards, brand volume visualizations, and integrated AI FMCG Analyst powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
